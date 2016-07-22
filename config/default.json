@@ -1,0 +1,6 @@
+{
+    "appSecret": "a40c1a1ef600aab9ebc356d5389aa418",
+    "pageAccessToken": "EAAD7eFCHVmsBAOOU9ZCq0twzN8ydCyssjBHDBEDBf3dRd3FLZBKjZAi03mKXZCoKQPB47ZCi4Xh4KP4McHDW50I8ZB65Ogh9qnZB70HwvXYY9BRWdfRo6cZB0ZChpnmGz8DHv99gMXSQZAZCSk5GfzrZANNTwiKs8Pdy58pu7oGJMZAkjOQZDZD",
+    "validationToken": "my_voice_is_my_password_verify_me",
+    "serverURL": "https://facebook-messenger-test.herokuapp.com"
+}
